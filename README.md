@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Python, Web security**
 
-- 📫 Feel free to reach me out **a.guellouma.inf@lagh-univ.d**
+- 📫 Feel free to reach me out **a.guellouma.inf@lagh-univ.dz**
 
 - ⚡ Fun fact **id ='99' or '1'='1' --**
 
