@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Freelance,Web Pentesting**
+- 🔭 I’m currently working on **Computer Engineering · Ens laghouat**
 
 - 🌱 I’m currently learning **Qwikjs,Reactjs,Electronjs,React-native**
 
