@@ -13,7 +13,7 @@
 <!--- snake -->
 <div align="center">
   <a href="https://linktr.ee/aliguellouma">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+    <img src="img/grid-snake.svg" alt="snake">
   </a>
 </div>
 
